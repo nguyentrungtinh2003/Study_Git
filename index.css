@@ -1,19 +1,21 @@
 body {
   font-family: Arial, sans-serif;
   text-align: center;
-  margin: 50px;
 }
 h1 {
   color: blue;
 }
 nav {
-  background-color: #333;
+  background-color: #2407df;
   padding: 10px;
 }
 nav a {
   color: white;
   margin: 0 10px;
   text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
 }
 footer {
   margin-top: 20px;
